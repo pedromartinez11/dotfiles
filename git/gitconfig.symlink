@@ -33,3 +33,6 @@
         default = simple
 [credential]
 	helper = osxkeychain
+[user]
+	name = Pedro Martinez
+	email = pedromartinez11@gmail.com
